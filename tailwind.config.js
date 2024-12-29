@@ -8,6 +8,7 @@ export default {
         md: "10rem",
       },
     },
+    kj'JXG'j'J'OCJOcj'wJo
   },
   plugins: [],
 };
